@@ -1,6 +1,7 @@
 .vs
 .vsconfig
-TempProjectSettings
+Temp
+ProjectSettings
 Packages
 obj
 Logs
